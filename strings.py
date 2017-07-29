@@ -1,0 +1,5 @@
+print len('La vida es mucho mejor con Python.')
+print 'La vida es mucho mejor con Python.' .upper()
+print 'La vida es mucho mejor con Python.' .find("Python")
+print 'La vida es mucho mejor con Python.' .find("Perl")
+print 'La vida es mucho mejor con Python.' .replace('Python' , 'Jython')
